@@ -1,4 +1,4 @@
 # Jac-3DEngine
-Based OpenGLES2.0ï¼Œ C++ï¼Œcrossplatformï¼Œ3D Engine
+Based OpenGLES2.0£¬ C++£¬crossplatform£¬3D Engine
 
-æœ‰å…´è¶£çš„å¯è”ç³»ï¼šjaccen2007@163.com  æœŸå¾…ä½ çš„åŠ å…¥ï¼
+ÓĞĞËÈ¤µÄ¿ÉÁªÏµ£ºjaccen2007@163.com ÆÚ´ıÄãµÄ¼ÓÈë£¡

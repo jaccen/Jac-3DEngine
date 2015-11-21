@@ -1,0 +1,11 @@
+﻿生成启动时间为 2015/11/18 22:01:51。
+     1>项目“D:\Opengl\branches\2.1_branch\external\glfw-3.1.2\Build\ZERO_CHECK.vcxproj”在节点 2 上(Build 个目标)。
+     1>CustomBuild:
+         Checking Build System
+         CMake does not need to re-run because D:/Opengl/branches/2.1_branch/external/glfw-3.1.2/Build/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because D:/Opengl/branches/2.1_branch/external/glfw-3.1.2/Build/src/CMakeFiles/generate.stamp is up-to-date.
+     1>已完成生成项目“D:\Opengl\branches\2.1_branch\external\glfw-3.1.2\Build\ZERO_CHECK.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.25

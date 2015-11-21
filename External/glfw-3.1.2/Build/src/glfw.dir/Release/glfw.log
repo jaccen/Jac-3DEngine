@@ -1,0 +1,39 @@
+﻿生成启动时间为 2015/11/18 22:01:52。
+     1>项目“D:\Opengl\branches\2.1_branch\external\glfw-3.1.2\Build\src\glfw.vcxproj”在节点 2 上(Build 个目标)。
+     1>CustomBuild:
+         Building Custom Rule D:/Opengl/branches/2.1_branch/external/glfw-3.1.2/src/CMakeLists.txt
+         CMake does not need to re-run because D:\Opengl\branches\2.1_branch\external\glfw-3.1.2\Build\src\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"D:\Opengl\branches\2.1_branch\external\glfw-3.1.2\src" /I"D:\Opengl\branches\2.1_branch\external\glfw-3.1.2\Build\src" /nologo /W3 /WX- /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D _CRT_SECURE_NO_WARNINGS /D _GLFW_USE_CONFIG_H /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"glfw.dir\Release\\" /Fd"glfw.dir\Release\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "D:\Opengl\branches\2.1_branch\external\glfw-3.1.2\src\context.c" "D:\Opengl\branches\2.1_branch\external\glfw-3.1.2\src\init.c" "D:\Opengl\branches\2.1_branch\external\glfw-3.1.2\src\input.c" "D:\Opengl\branches\2.1_branch\external\glfw-3.1.2\src\monitor.c" "D:\Opengl\branches\2.1_branch\external\glfw-3.1.2\src\window.c" "D:\Opengl\branches\2.1_branch\external\glfw-3.1.2\src\win32_init.c" "D:\Opengl\branches\2.1_branch\external\glfw-3.1.2\src\win32_monitor.c" "D:\Opengl\branches\2.1_branch\external\glfw-3.1.2\src\win32_time.c" "D:\Opengl\branches\2.1_branch\external\glfw-3.1.2\src\win32_tls.c" "D:\Opengl\branches\2.1_branch\external\glfw-3.1.2\src\win32_window.c" "D:\Opengl\branches\2.1_branch\external\glfw-3.1.2\src\winmm_joystick.c" "D:\Opengl\branches\2.1_branch\external\glfw-3.1.2\src\wgl_context.c"
+         context.c
+         init.c
+         input.c
+         monitor.c
+         window.c
+         win32_init.c
+         win32_monitor.c
+         win32_time.c
+         win32_tls.c
+         win32_window.c
+         winmm_joystick.c
+         wgl_context.c
+         正在生成代码...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"D:\Opengl\branches\2.1_branch\external\glfw-3.1.2\Build\src\Release\glfw3.lib" /NOLOGO  /machine:X86 glfw.dir\Release\context.obj
+         glfw.dir\Release\init.obj
+         glfw.dir\Release\input.obj
+         glfw.dir\Release\monitor.obj
+         glfw.dir\Release\window.obj
+         glfw.dir\Release\win32_init.obj
+         glfw.dir\Release\win32_monitor.obj
+         glfw.dir\Release\win32_time.obj
+         glfw.dir\Release\win32_tls.obj
+         glfw.dir\Release\win32_window.obj
+         glfw.dir\Release\winmm_joystick.obj
+         glfw.dir\Release\wgl_context.obj
+         glfw.vcxproj -> D:\Opengl\branches\2.1_branch\external\glfw-3.1.2\Build\src\Release\glfw3.lib
+     1>已完成生成项目“D:\Opengl\branches\2.1_branch\external\glfw-3.1.2\Build\src\glfw.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.74
