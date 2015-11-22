@@ -1,12 +1,45 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
+    <ClCompile Include="H:\3Dengine\Jac-3DEngine\Engine\src\Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="H:\3Dengine\Jac-3DEngine\Engine\src\Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\3Dengine\Jac-3DEngine\Engine\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\3Dengine\Jac-3DEngine\Engine\src\Polygon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\3Dengine\Jac-3DEngine\Engine\src\Shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\3Dengine\Jac-3DEngine\Engine\src\TextureMgr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\3Dengine\Jac-3DEngine\Engine\src\Utility.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="H:\3Dengine\Jac-3DEngine\Engine\include\Application.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
     <ClInclude Include="H:\3Dengine\Jac-3DEngine\Engine\include\Camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\3Dengine\Jac-3DEngine\Engine\include\Polygon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\3Dengine\Jac-3DEngine\Engine\include\Shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\3Dengine\Jac-3DEngine\Engine\include\TextureMgr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\3Dengine\Jac-3DEngine\Engine\include\Utility.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

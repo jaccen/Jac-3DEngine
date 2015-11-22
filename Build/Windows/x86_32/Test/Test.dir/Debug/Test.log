@@ -1,0 +1,15 @@
+﻿生成启动时间为 2015/11/22 15:39:16。
+     1>项目“H:\3Dengine\Jac-3DEngine\Build\Windows\x86_32\Test\Test.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"H:\3Dengine\Jac-3DEngine\External\include" /I"H:\3Dengine\Jac-3DEngine\Engine\include" /I"H:\3Dengine\Jac-3DEngine\Asset" /I"H:\3Dengine\Jac-3DEngine\Test\include" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"Test.dir\Debug\\" /Fd"Test.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "H:\3Dengine\Jac-3DEngine\Test\Triangle.cpp"
+         Triangle.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\3Dengine\Jac-3DEngine\bin\Debug\Test.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib ..\..\..\..\lib\Debug\Engine.lib glu32.lib opengl32.lib ..\..\..\..\External\lib\glew32.lib ..\..\..\..\External\lib\glfw3.lib ..\..\..\..\External\lib\FreeImage.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"H:/3Dengine/Jac-3DEngine/bin/Debug/Test.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:/3Dengine/Jac-3DEngine/bin/Debug/Test.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug /SAFESEH:NO Test.dir\Debug\main.obj
+         Test.dir\Debug\RenderSystem.obj
+         Test.dir\Debug\Triangle.obj
+         Test.vcxproj -> H:\3Dengine\Jac-3DEngine\bin\Debug\Test.exe
+     1>已完成生成项目“H:\3Dengine\Jac-3DEngine\Build\Windows\x86_32\Test\Test.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.01

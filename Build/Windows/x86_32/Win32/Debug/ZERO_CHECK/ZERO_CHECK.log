@@ -1,0 +1,12 @@
+﻿生成启动时间为 2015/11/22 15:37:06。
+     1>项目“H:\3Dengine\Jac-3DEngine\Build\Windows\x86_32\ZERO_CHECK.vcxproj”在节点 2 上(Build 个目标)。
+     1>CustomBuild:
+         Checking Build System
+         CMake does not need to re-run because H:/3Dengine/Jac-3DEngine/Build/Windows/x86_32/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because H:/3Dengine/Jac-3DEngine/Build/Windows/x86_32/Engine/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because H:/3Dengine/Jac-3DEngine/Build/Windows/x86_32/Test/CMakeFiles/generate.stamp is up-to-date.
+     1>已完成生成项目“H:\3Dengine\Jac-3DEngine\Build\Windows\x86_32\ZERO_CHECK.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.30

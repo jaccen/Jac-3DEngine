@@ -4,6 +4,12 @@
     <ClCompile Include="H:\3Dengine\Jac-3DEngine\Test\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="H:\3Dengine\Jac-3DEngine\Test\RenderSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\3Dengine\Jac-3DEngine\Test\Triangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="H:\3Dengine\Jac-3DEngine\Test\CMakeLists.txt" />

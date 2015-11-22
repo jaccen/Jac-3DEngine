@@ -1,0 +1,54 @@
+﻿生成启动时间为 2015/11/22 15:29:09。
+     1>项目“H:\3Dengine\Jac-3DEngine\External\FreeImage\Source\ZLib\ZLib.2013.vcxproj”在节点 3 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /nologo /W3 /WX- /Ox /Ob1 /Oi /Ot /Oy /D WIN32 /D NDEBUG /D _LIB /D _CRT_SECURE_NO_DEPRECATE /D _CRT_SECURE_NO_WARNINGS /D _SCL_SECURE_NO_WARNINGS /D _VC80_UPGRADE=0x0710 /D _MBCS /GF /Gm- /EHsc /MT /GS- /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Win32\Release\\" /Fd".\Win32\Release\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt adler32.c compress.c crc32.c deflate.c gzclose.c gzlib.c gzread.c gzwrite.c infback.c inffast.c inflate.c inftrees.c trees.c uncompr.c zutil.c
+         adler32.c
+         compress.c
+         crc32.c
+         deflate.c
+         gzclose.c
+         gzlib.c
+     1>gzlib.c(245): warning C4996: 'open': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _open. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\io.h(336) : 参见“open”的声明
+         gzread.c
+     1>gzread.c(30): warning C4996: 'read': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _read. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\io.h(337) : 参见“read”的声明
+     1>gzread.c(591): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _close. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\io.h(326) : 参见“close”的声明
+         gzwrite.c
+     1>gzwrite.c(84): warning C4996: 'write': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _write. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\io.h(342) : 参见“write”的声明
+     1>gzwrite.c(102): warning C4996: 'write': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _write. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\io.h(342) : 参见“write”的声明
+     1>gzwrite.c(573): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _close. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\io.h(326) : 参见“close”的声明
+         infback.c
+         inffast.c
+         inflate.c
+         inftrees.c
+         trees.c
+         uncompr.c
+         zutil.c
+         正在生成代码...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:".\Win32\Release\ZLib.lib" /NOLOGO /LTCG .\Win32\Release\adler32.obj
+         .\Win32\Release\compress.obj
+         .\Win32\Release\crc32.obj
+         .\Win32\Release\deflate.obj
+         .\Win32\Release\gzclose.obj
+         .\Win32\Release\gzlib.obj
+         .\Win32\Release\gzread.obj
+         .\Win32\Release\gzwrite.obj
+         .\Win32\Release\infback.obj
+         .\Win32\Release\inffast.obj
+         .\Win32\Release\inflate.obj
+         .\Win32\Release\inftrees.obj
+         .\Win32\Release\trees.obj
+         .\Win32\Release\uncompr.obj
+         .\Win32\Release\zutil.obj
+         ZLib.2013.vcxproj -> H:\3Dengine\Jac-3DEngine\External\FreeImage\Source\ZLib\.\Win32\Release\ZLib.lib
+     1>已完成生成项目“H:\3Dengine\Jac-3DEngine\External\FreeImage\Source\ZLib\ZLib.2013.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.74

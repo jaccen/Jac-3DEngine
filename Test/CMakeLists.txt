@@ -1,6 +1,6 @@
 include_directories( include )
 
-add_executable(Test main.cpp)
+add_executable(Test main.cpp RenderSystem.cpp Triangle.cpp)
 SET(EXECUTABLE_OUTPUT_PATH "${CMAKE_SOURCE_DIR}/bin/")    #可执行生成后存放的目录(CMAKE_SOURCE_DIR是cmake目录)
 
 #静态库生成后存放的目录

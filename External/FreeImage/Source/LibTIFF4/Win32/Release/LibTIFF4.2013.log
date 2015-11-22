@@ -1,0 +1,86 @@
+﻿生成启动时间为 2015/11/22 15:29:25。
+     1>项目“H:\3Dengine\Jac-3DEngine\External\FreeImage\Source\LibTIFF4\LibTIFF4.2013.vcxproj”在节点 5 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /nologo /W3 /WX- /Ox /Ob1 /Oi /Ot /Oy /D WIN32 /D NDEBUG /D _LIB /D _CRT_SECURE_NO_DEPRECATE /D _VC80_UPGRADE=0x0710 /D _MBCS /GF /Gm- /EHsc /MT /GS- /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Win32\Release\\" /Fd".\Win32\Release\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt tif_aux.c tif_close.c tif_codec.c tif_color.c tif_compress.c tif_dir.c tif_dirinfo.c tif_dirread.c tif_dirwrite.c tif_dumpmode.c tif_error.c tif_extension.c tif_fax3.c tif_fax3sm.c tif_flush.c tif_getimage.c tif_jpeg.c tif_luv.c tif_lzma.c tif_lzw.c tif_next.c tif_ojpeg.c tif_open.c tif_packbits.c tif_pixarlog.c tif_predict.c tif_print.c tif_read.c tif_strip.c tif_swab.c tif_thunder.c tif_tile.c tif_version.c tif_warning.c tif_write.c tif_zip.c
+         tif_aux.c
+         tif_close.c
+         tif_codec.c
+         tif_color.c
+         tif_compress.c
+         tif_dir.c
+         tif_dirinfo.c
+         tif_dirread.c
+         tif_dirwrite.c
+         tif_dumpmode.c
+         tif_error.c
+         tif_extension.c
+         tif_fax3.c
+         tif_fax3sm.c
+         tif_flush.c
+         tif_getimage.c
+         tif_jpeg.c
+         tif_luv.c
+         tif_lzma.c
+         tif_lzw.c
+         正在生成代码...
+         正在编译...
+         tif_next.c
+         tif_ojpeg.c
+         tif_open.c
+         tif_packbits.c
+         tif_pixarlog.c
+         tif_predict.c
+         tif_print.c
+         tif_read.c
+         tif_strip.c
+         tif_swab.c
+         tif_thunder.c
+         tif_tile.c
+         tif_version.c
+         tif_warning.c
+         tif_write.c
+         tif_zip.c
+         正在生成代码...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:".\Win32\Release\LibTIFF4.lib" /NOLOGO /LTCG .\Win32\Release\tif_aux.obj
+         .\Win32\Release\tif_close.obj
+         .\Win32\Release\tif_codec.obj
+         .\Win32\Release\tif_color.obj
+         .\Win32\Release\tif_compress.obj
+         .\Win32\Release\tif_dir.obj
+         .\Win32\Release\tif_dirinfo.obj
+         .\Win32\Release\tif_dirread.obj
+         .\Win32\Release\tif_dirwrite.obj
+         .\Win32\Release\tif_dumpmode.obj
+         .\Win32\Release\tif_error.obj
+         .\Win32\Release\tif_extension.obj
+         .\Win32\Release\tif_fax3.obj
+         .\Win32\Release\tif_fax3sm.obj
+         .\Win32\Release\tif_flush.obj
+         .\Win32\Release\tif_getimage.obj
+         .\Win32\Release\tif_jpeg.obj
+         .\Win32\Release\tif_luv.obj
+         .\Win32\Release\tif_lzma.obj
+         .\Win32\Release\tif_lzw.obj
+         .\Win32\Release\tif_next.obj
+         .\Win32\Release\tif_ojpeg.obj
+         .\Win32\Release\tif_open.obj
+         .\Win32\Release\tif_packbits.obj
+         .\Win32\Release\tif_pixarlog.obj
+         .\Win32\Release\tif_predict.obj
+         .\Win32\Release\tif_print.obj
+         .\Win32\Release\tif_read.obj
+         .\Win32\Release\tif_strip.obj
+         .\Win32\Release\tif_swab.obj
+         .\Win32\Release\tif_thunder.obj
+         .\Win32\Release\tif_tile.obj
+         .\Win32\Release\tif_version.obj
+         .\Win32\Release\tif_warning.obj
+         .\Win32\Release\tif_write.obj
+         .\Win32\Release\tif_zip.obj
+         LibTIFF4.2013.vcxproj -> H:\3Dengine\Jac-3DEngine\External\FreeImage\Source\LibTIFF4\.\Win32\Release\LibTIFF4.lib
+     1>已完成生成项目“H:\3Dengine\Jac-3DEngine\External\FreeImage\Source\LibTIFF4\LibTIFF4.2013.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.94

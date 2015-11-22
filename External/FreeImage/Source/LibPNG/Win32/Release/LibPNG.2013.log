@@ -1,0 +1,42 @@
+﻿生成启动时间为 2015/11/22 15:29:12。
+     1>项目“H:\3Dengine\Jac-3DEngine\External\FreeImage\Source\LibPNG\LibPNG.2013.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\zlib /nologo /W3 /WX- /Ox /Ob1 /Oi /Ot /Oy /D WIN32 /D NDEBUG /D _LIB /D _CRT_SECURE_NO_DEPRECATE /D _VC80_UPGRADE=0x0710 /D _MBCS /GF /Gm- /EHsc /MT /GS- /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Win32\Release\\" /Fd".\Win32\Release\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt png.c pngerror.c pngget.c pngmem.c pngpread.c pngread.c pngrio.c pngrtran.c pngrutil.c pngset.c pngtrans.c pngwio.c pngwrite.c pngwtran.c pngwutil.c
+         png.c
+         pngerror.c
+         pngget.c
+         pngmem.c
+         pngpread.c
+         pngread.c
+         pngrio.c
+         pngrtran.c
+         pngrutil.c
+         pngset.c
+         pngtrans.c
+         pngwio.c
+         pngwrite.c
+         pngwtran.c
+         pngwutil.c
+         正在生成代码...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:".\Win32\Release\LibPNG.lib" /NOLOGO /LTCG .\Win32\Release\png.obj
+         .\Win32\Release\pngerror.obj
+         .\Win32\Release\pngget.obj
+         .\Win32\Release\pngmem.obj
+         .\Win32\Release\pngpread.obj
+         .\Win32\Release\pngread.obj
+         .\Win32\Release\pngrio.obj
+         .\Win32\Release\pngrtran.obj
+         .\Win32\Release\pngrutil.obj
+         .\Win32\Release\pngset.obj
+         .\Win32\Release\pngtrans.obj
+         .\Win32\Release\pngwio.obj
+         .\Win32\Release\pngwrite.obj
+         .\Win32\Release\pngwtran.obj
+         .\Win32\Release\pngwutil.obj
+         LibPNG.2013.vcxproj -> H:\3Dengine\Jac-3DEngine\External\FreeImage\Source\LibPNG\.\Win32\Release\LibPNG.lib
+     1>已完成生成项目“H:\3Dengine\Jac-3DEngine\External\FreeImage\Source\LibPNG\LibPNG.2013.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:13.33

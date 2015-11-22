@@ -1,0 +1,187 @@
+﻿生成启动时间为 2015/11/22 15:29:09。
+     1>项目“H:\3Dengine\Jac-3DEngine\External\FreeImage\Source\LibJXR\LibJXR.2013.vcxproj”在节点 6 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I./image/sys /I./jxrgluelib /nologo /W3 /WX- /Ox /Ob1 /Oi /Ot /Oy /D WIN32 /D NDEBUG /D _LIB /D DISABLE_PERF_MEASUREMENT /D _MBCS /Gm- /EHsc /MT /GS- /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Win32\Release\\" /Fd".\Win32\Release\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt image\decode\decode.c image\decode\JXRTranscode.c image\decode\postprocess.c image\decode\segdec.c image\decode\strdec.c image\decode\strdec_x86.c image\decode\strInvTransform.c image\decode\strPredQuantDec.c image\encode\encode.c image\encode\segenc.c image\encode\strenc.c image\encode\strenc_x86.c image\encode\strFwdTransform.c image\encode\strPredQuantEnc.c image\sys\adapthuff.c image\sys\image.c image\sys\strcodec.c image\sys\strPredQuant.c image\sys\strTransform.c jxrgluelib\JXRGlue.c jxrgluelib\JXRGlueJxr.c jxrgluelib\JXRGluePFC.c jxrgluelib\JXRMeta.c
+         decode.c
+     1>image\decode\decode.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>./image/sys\strcodec.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\windowsmediaphoto.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\common.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\../x86/x86.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\decode\decode.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         JXRTranscode.c
+     1>image\decode\JXRTranscode.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>./image/sys\windowsmediaphoto.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>./image/sys\strcodec.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\common.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\../x86/x86.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\decode\decode.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         postprocess.c
+     1>image\decode\postprocess.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>./image/sys\windowsmediaphoto.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>./image/sys\strcodec.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\common.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\../x86/x86.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         segdec.c
+     1>image\decode\segdec.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>./image/sys\strcodec.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\windowsmediaphoto.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\common.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\../x86/x86.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\decode\decode.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         strdec.c
+     1>image\decode\strdec.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>./image/sys\strcodec.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\windowsmediaphoto.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\common.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\../x86/x86.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\decode\decode.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>./image/sys\strTransform.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>./image/sys\perfTimer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         strdec_x86.c
+     1>image\decode\strdec_x86.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>./image/sys\strcodec.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\windowsmediaphoto.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\common.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\../x86/x86.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\decode\decode.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         strInvTransform.c
+     1>image\decode\strInvTransform.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>./image/sys\strTransform.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\windowsmediaphoto.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>./image/sys\strcodec.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\common.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\../x86/x86.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\decode\decode.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         strPredQuantDec.c
+     1>image\decode\strPredQuantDec.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>./image/sys\strcodec.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\windowsmediaphoto.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\common.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\../x86/x86.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         encode.c
+     1>image\encode\encode.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\encode\encode.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>./image/sys\strcodec.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\windowsmediaphoto.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\common.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\../x86/x86.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         segenc.c
+     1>image\encode\segenc.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>./image/sys\strcodec.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\windowsmediaphoto.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\common.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\../x86/x86.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\encode\encode.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         strenc.c
+     1>image\encode\strenc.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>./image/sys\strcodec.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\windowsmediaphoto.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\common.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\../x86/x86.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\encode\encode.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>./image/sys\strTransform.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>./image/sys\perfTimer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         strenc_x86.c
+     1>image\encode\strenc_x86.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>./image/sys\strcodec.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\windowsmediaphoto.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\common.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\../x86/x86.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         strFwdTransform.c
+     1>image\encode\strFwdTransform.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>./image/sys\strTransform.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\windowsmediaphoto.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\encode\encode.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>./image/sys\strcodec.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\common.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\../x86/x86.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         strPredQuantEnc.c
+     1>image\encode\strPredQuantEnc.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>./image/sys\strcodec.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\windowsmediaphoto.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\common.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\../x86/x86.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\encode\encode.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         adapthuff.c
+     1>image\sys\adapthuff.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\strcodec.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\windowsmediaphoto.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\common.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\../x86/x86.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         image.c
+     1>image\sys\image.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\strcodec.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\windowsmediaphoto.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\common.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\../x86/x86.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         strcodec.c
+     1>image\sys\strcodec.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\strcodec.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\windowsmediaphoto.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\common.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\../x86/x86.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\perfTimer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         strPredQuant.c
+     1>image\sys\strPredQuant.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\strcodec.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\windowsmediaphoto.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\common.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\../x86/x86.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         strTransform.c
+     1>image\sys\strTransform.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\strTransform.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\image\sys\windowsmediaphoto.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         JXRGlue.c
+     1>jxrgluelib\JXRGlue.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>./jxrgluelib\JXRGlue.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>./jxrgluelib\JXRMeta.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>./image/sys\windowsmediaphoto.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         正在生成代码...
+         正在编译...
+         JXRGlueJxr.c
+     1>jxrgluelib\JXRGlueJxr.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>./jxrgluelib\JXRGlue.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>./jxrgluelib\JXRMeta.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>./image/sys\windowsmediaphoto.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         JXRGluePFC.c
+     1>jxrgluelib\JXRGluePFC.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>./jxrgluelib\JXRGlue.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>./jxrgluelib\JXRMeta.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>./image/sys\windowsmediaphoto.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         JXRMeta.c
+     1>jxrgluelib\JXRMeta.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\jxrgluelib\JXRMeta.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>./image/sys\windowsmediaphoto.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>h:\3dengine\jac-3dengine\external\freeimage\source\libjxr\jxrgluelib\JXRGlue.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         正在生成代码...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:".\Win32\Release\LibJXR.lib" /NOLOGO /LTCG .\Win32\Release\decode.obj
+         .\Win32\Release\JXRTranscode.obj
+         .\Win32\Release\postprocess.obj
+         .\Win32\Release\segdec.obj
+         .\Win32\Release\strdec.obj
+         .\Win32\Release\strdec_x86.obj
+         .\Win32\Release\strInvTransform.obj
+         .\Win32\Release\strPredQuantDec.obj
+         .\Win32\Release\encode.obj
+         .\Win32\Release\segenc.obj
+         .\Win32\Release\strenc.obj
+         .\Win32\Release\strenc_x86.obj
+         .\Win32\Release\strFwdTransform.obj
+         .\Win32\Release\strPredQuantEnc.obj
+         .\Win32\Release\adapthuff.obj
+         .\Win32\Release\image.obj
+         .\Win32\Release\strcodec.obj
+         .\Win32\Release\strPredQuant.obj
+         .\Win32\Release\strTransform.obj
+         .\Win32\Release\JXRGlue.obj
+         .\Win32\Release\JXRGlueJxr.obj
+         .\Win32\Release\JXRGluePFC.obj
+         .\Win32\Release\JXRMeta.obj
+         LibJXR.2013.vcxproj -> H:\3Dengine\Jac-3DEngine\External\FreeImage\Source\LibJXR\.\Win32\Release\LibJXR.lib
+     1>已完成生成项目“H:\3Dengine\Jac-3DEngine\External\FreeImage\Source\LibJXR\LibJXR.2013.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:18.73

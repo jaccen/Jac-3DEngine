@@ -261,8 +261,19 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="H:\3Dengine\Jac-3DEngine\Engine\include\Application.h" />
     <ClInclude Include="H:\3Dengine\Jac-3DEngine\Engine\include\Camera.h" />
+    <ClInclude Include="H:\3Dengine\Jac-3DEngine\Engine\include\Polygon.h" />
+    <ClInclude Include="H:\3Dengine\Jac-3DEngine\Engine\include\Shader.h" />
+    <ClInclude Include="H:\3Dengine\Jac-3DEngine\Engine\include\TextureMgr.h" />
+    <ClInclude Include="H:\3Dengine\Jac-3DEngine\Engine\include\Utility.h" />
+    <ClCompile Include="H:\3Dengine\Jac-3DEngine\Engine\src\Application.cpp"  />
     <ClCompile Include="H:\3Dengine\Jac-3DEngine\Engine\src\Camera.cpp"  />
+    <ClCompile Include="H:\3Dengine\Jac-3DEngine\Engine\src\main.cpp"  />
+    <ClCompile Include="H:\3Dengine\Jac-3DEngine\Engine\src\Polygon.cpp"  />
+    <ClCompile Include="H:\3Dengine\Jac-3DEngine\Engine\src\Shader.cpp"  />
+    <ClCompile Include="H:\3Dengine\Jac-3DEngine\Engine\src\TextureMgr.cpp"  />
+    <ClCompile Include="H:\3Dengine\Jac-3DEngine\Engine\src\Utility.cpp"  />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="H:/3Dengine/Jac-3DEngine/Build/Windows/x86_32/ZERO_CHECK.vcxproj">
