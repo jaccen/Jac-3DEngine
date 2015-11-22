@@ -1,38 +1,38 @@
-# Copyright (C) 2016 jaccen
+CMAKE_MINIMUM_REQUIRED(VERSION 2.8 FATAL_ERROR)
 
-# we need features that are 2.6 >= dependent
-cmake_minimum_required (VERSION 2.6)
+# бу?б└???
+SET(Visual_VERSION_MAJOR 0)
+SET(Visual_VERSION_MINOR 1)
 
-# lets name the project
-PROJECT(Jac-3DEngine)
+PROJECT( Visuail)
+INCLUDE_DIRECTORIES(${Visuail_SOURCE_DIR}/External/include )
+INCLUDE_DIRECTORIES(${Visuail_SOURCE_DIR}/Engine/include )
+INCLUDE_DIRECTORIES(${Visuail_SOURCE_DIR}/Asset)
 
-# add the -c and -Wall flags
-add_definitions(
-	-c
-	-Wall
-)
-add_subdirectory(Engine/include)
-add_subdirectory(External/include)
-add_subdirectory(Test)
-set(CXX_FLAGS
-    -g
-    -Wall
-    #-Werror
-)
-string(REPLACE ";" " " CMAKE_CXX_FLAGS "${CXX_FLAGS}")
-if ( CMAKE_BUILD_TYPE STREQUAL "" )
-	# CMake defaults to leaving CMAKE_BUILD_TYPE empty. This screws up
-	# differentiation between debug and release builds.
-	set(
-		CMAKE_BUILD_TYPE
-			"Debug"
-		CACHE STRING
-			"Choose the type of build, options are: None (CMAKE_CXX_FLAGS or CMAKE_C_FLAGS used) \"Debug\" \"Release\" \"RelWithDebInfo\" \"MinSizeRel\"."
-		FORCE
-	)
-endif ( CMAKE_BUILD_TYPE STREQUAL "" )
+MESSAGE(STATUS "operation system is ${CMAKE_SYSTEM}")
 
-if ( CMAKE_BUILD_TYPE STREQUAL "Release" )
-add_definitions( -O2 )
-endif ( CMAKE_BUILD_TYPE STREQUAL "Release" )
+IF (CMAKE_SYSTEM_NAME MATCHES "Linux")
+	MESSAGE(STATUS "current platform: Linux ")
+      LINK_DIRECTORIES( 
+	/usr/lib64/)
 
+ELSEIF (CMAKE_SYSTEM_NAME MATCHES "Windows")
+	MESSAGE(STATUS "current platform: Windows")
+    find_package(OpenGL REQUIRED)
+    include_directories(${OpenGL_INCLUDE_DIRS})
+    link_directories(${OpenGL_LIBRARY_DIRS})
+    add_definitions(${OpenGL_DEFINITIONS})
+
+    if(NOT OpenGL_FOUND)
+            message(Error "OpenGL not found")
+    endif(NOT OpenGL_FOUND)
+       find_library( GLEW_LIBRARY glew32.lib External/lib)
+       find_library( GLFW_LIBRARY glfw3.lib External/lib)
+       find_library( FREEIMAGE_LIBRARY FreeImage.lib External/lib)
+ELSEIF (CMAKE_SYSTEM_NAME MATCHES "FreeBSD")
+	MESSAGE(STATUS "current platform: FreeBSD")
+ELSE ()
+	MESSAGE(STATUS "other platform: ${CMAKE_SYSTEM_NAME}")
+ENDIF (CMAKE_SYSTEM_NAME MATCHES "Linux")
+
+SUBDIRS( Engine Test)
