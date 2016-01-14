@@ -1,0 +1,4 @@
+E:/Jac-3DEngine.git/trunk/Build/Windows/x86_32/Test/CMakeFiles/Test.dir
+E:/Jac-3DEngine.git/trunk/Build/Windows/x86_32/Engine/CMakeFiles/Engine.dir
+E:/Jac-3DEngine.git/trunk/Build/Windows/x86_32/CMakeFiles/ALL_BUILD.dir
+E:/Jac-3DEngine.git/trunk/Build/Windows/x86_32/CMakeFiles/ZERO_CHECK.dir

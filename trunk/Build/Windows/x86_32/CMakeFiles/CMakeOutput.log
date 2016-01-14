@@ -1,0 +1,338 @@
+The system is: Windows - 10.0.10240 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+Microsoft(R) 生成引擎版本 12.0.30501.0
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2016/1/12 22:34:35。
+节点 1 上的项目“E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\3.4.0-rc3\CompilerIdC\CompilerIdC.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“Debug\”。
+  正在创建目录“Debug\CompilerIdC.tlog\”。
+InitializeBuildStatus:
+  正在创建“Debug\CompilerIdC.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\3.4.0-rc3\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\cl.exe
+FinalizeBuildStatus:
+  正在删除文件“Debug\CompilerIdC.tlog\unsuccessfulbuild”。
+  正在对“Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\3.4.0-rc3\CompilerIdC\CompilerIdC.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:00.54
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "E:/Jac-3DEngine.git/trunk/Build/Windows/x86_32/CMakeFiles/3.4.0-rc3/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+Microsoft(R) 生成引擎版本 12.0.30501.0
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2016/1/12 22:34:36。
+节点 1 上的项目“E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\3.4.0-rc3\CompilerIdCXX\CompilerIdCXX.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“Debug\”。
+  正在创建目录“Debug\CompilerIdCXX.tlog\”。
+InitializeBuildStatus:
+  正在创建“Debug\CompilerIdCXX.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\3.4.0-rc3\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\cl.exe
+FinalizeBuildStatus:
+  正在删除文件“Debug\CompilerIdCXX.tlog\unsuccessfulbuild”。
+  正在对“Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\3.4.0-rc3\CompilerIdCXX\CompilerIdCXX.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:00.59
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "E:/Jac-3DEngine.git/trunk/Build/Windows/x86_32/CMakeFiles/3.4.0-rc3/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: E:/Jac-3DEngine.git/trunk/Build/Windows/x86_32/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_45276.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft(R) 生成引擎版本 12.0.30501.0
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2016/1/12 22:34:37。
+节点 1 上的项目“E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\CMakeTmp\cmTC_45276.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_45276.dir\Debug\”。
+  正在创建目录“E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_45276.dir\Debug\cmTC_45276.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_45276.dir\Debug\cmTC_45276.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_45276.dir\Debug\\" /Fd"cmTC_45276.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\CMakeTmp\testCCompiler.c"
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 18.00.30501 版版权所有(C) Microsoft Corporation。  保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_45276.dir\Debug\\" /Fd"cmTC_45276.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\CMakeTmp\testCCompiler.c"
+  
+  testCCompiler.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\CMakeTmp\Debug\cmTC_45276.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/Jac-3DEngine.git/trunk/Build/Windows/x86_32/CMakeFiles/CMakeTmp/Debug/cmTC_45276.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/Jac-3DEngine.git/trunk/Build/Windows/x86_32/CMakeFiles/CMakeTmp/Debug/cmTC_45276.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_45276.dir\Debug\testCCompiler.obj
+  cmTC_45276.vcxproj -> E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\CMakeTmp\Debug\cmTC_45276.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_45276.dir\Debug\cmTC_45276.tlog\unsuccessfulbuild”。
+  正在对“cmTC_45276.dir\Debug\cmTC_45276.tlog\cmTC_45276.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\CMakeTmp\cmTC_45276.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:00.70
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: E:/Jac-3DEngine.git/trunk/Build/Windows/x86_32/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_a98b4.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft(R) 生成引擎版本 12.0.30501.0
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2016/1/12 22:34:38。
+节点 1 上的项目“E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\CMakeTmp\cmTC_a98b4.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_a98b4.dir\Debug\”。
+  正在创建目录“E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_a98b4.dir\Debug\cmTC_a98b4.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_a98b4.dir\Debug\cmTC_a98b4.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_a98b4.dir\Debug\\" /Fd"cmTC_a98b4.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CMakeCCompilerABI.c"
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 18.00.30501 版版权所有(C) Microsoft Corporation。  保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_a98b4.dir\Debug\\" /Fd"cmTC_a98b4.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CMakeCCompilerABI.c"
+  
+  CMakeCCompilerABI.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\CMakeTmp\Debug\cmTC_a98b4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/Jac-3DEngine.git/trunk/Build/Windows/x86_32/CMakeFiles/CMakeTmp/Debug/cmTC_a98b4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/Jac-3DEngine.git/trunk/Build/Windows/x86_32/CMakeFiles/CMakeTmp/Debug/cmTC_a98b4.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_a98b4.dir\Debug\CMakeCCompilerABI.obj
+  cmTC_a98b4.vcxproj -> E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\CMakeTmp\Debug\cmTC_a98b4.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_a98b4.dir\Debug\cmTC_a98b4.tlog\unsuccessfulbuild”。
+  正在对“cmTC_a98b4.dir\Debug\cmTC_a98b4.tlog\cmTC_a98b4.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\CMakeTmp\cmTC_a98b4.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:00.57
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: E:/Jac-3DEngine.git/trunk/Build/Windows/x86_32/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_5e3f4.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft(R) 生成引擎版本 12.0.30501.0
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2016/1/12 22:34:39。
+节点 1 上的项目“E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\CMakeTmp\cmTC_5e3f4.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_5e3f4.dir\Debug\”。
+  正在创建目录“E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_5e3f4.dir\Debug\cmTC_5e3f4.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_5e3f4.dir\Debug\cmTC_5e3f4.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_5e3f4.dir\Debug\\" /Fd"cmTC_5e3f4.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 18.00.30501 版版权所有(C) Microsoft Corporation。  保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_5e3f4.dir\Debug\\" /Fd"cmTC_5e3f4.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  
+  testCXXCompiler.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\CMakeTmp\Debug\cmTC_5e3f4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/Jac-3DEngine.git/trunk/Build/Windows/x86_32/CMakeFiles/CMakeTmp/Debug/cmTC_5e3f4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/Jac-3DEngine.git/trunk/Build/Windows/x86_32/CMakeFiles/CMakeTmp/Debug/cmTC_5e3f4.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_5e3f4.dir\Debug\testCXXCompiler.obj
+  cmTC_5e3f4.vcxproj -> E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\CMakeTmp\Debug\cmTC_5e3f4.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_5e3f4.dir\Debug\cmTC_5e3f4.tlog\unsuccessfulbuild”。
+  正在对“cmTC_5e3f4.dir\Debug\cmTC_5e3f4.tlog\cmTC_5e3f4.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\CMakeTmp\cmTC_5e3f4.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:00.56
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: E:/Jac-3DEngine.git/trunk/Build/Windows/x86_32/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_65c0d.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft(R) 生成引擎版本 12.0.30501.0
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2016/1/12 22:34:39。
+节点 1 上的项目“E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\CMakeTmp\cmTC_65c0d.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_65c0d.dir\Debug\”。
+  正在创建目录“E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_65c0d.dir\Debug\cmTC_65c0d.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_65c0d.dir\Debug\cmTC_65c0d.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_65c0d.dir\Debug\\" /Fd"cmTC_65c0d.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CMakeCXXCompilerABI.cpp"
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 18.00.30501 版版权所有(C) Microsoft Corporation。  保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_65c0d.dir\Debug\\" /Fd"cmTC_65c0d.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CMakeCXXCompilerABI.cpp"
+  
+  CMakeCXXCompilerABI.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\CMakeTmp\Debug\cmTC_65c0d.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/Jac-3DEngine.git/trunk/Build/Windows/x86_32/CMakeFiles/CMakeTmp/Debug/cmTC_65c0d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/Jac-3DEngine.git/trunk/Build/Windows/x86_32/CMakeFiles/CMakeTmp/Debug/cmTC_65c0d.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_65c0d.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTC_65c0d.vcxproj -> E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\CMakeTmp\Debug\cmTC_65c0d.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_65c0d.dir\Debug\cmTC_65c0d.tlog\unsuccessfulbuild”。
+  正在对“cmTC_65c0d.dir\Debug\cmTC_65c0d.tlog\cmTC_65c0d.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\CMakeTmp\cmTC_65c0d.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:00.57
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: E:/Jac-3DEngine.git/trunk/Build/Windows/x86_32/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_0accc.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft(R) 生成引擎版本 12.0.30501.0
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2016/1/12 22:34:40。
+节点 1 上的项目“E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\CMakeTmp\cmTC_0accc.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_0accc.dir\Debug\”。
+  正在创建目录“E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_0accc.dir\Debug\cmTC_0accc.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_0accc.dir\Debug\cmTC_0accc.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_0accc.dir\Debug\\" /Fd"cmTC_0accc.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\feature_tests.cxx"
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 18.00.30501 版版权所有(C) Microsoft Corporation。  保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_0accc.dir\Debug\\" /Fd"cmTC_0accc.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\feature_tests.cxx"
+  
+  feature_tests.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\CMakeTmp\Debug\cmTC_0accc.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/Jac-3DEngine.git/trunk/Build/Windows/x86_32/CMakeFiles/CMakeTmp/Debug/cmTC_0accc.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/Jac-3DEngine.git/trunk/Build/Windows/x86_32/CMakeFiles/CMakeTmp/Debug/cmTC_0accc.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_0accc.dir\Debug\feature_tests.obj
+  cmTC_0accc.vcxproj -> E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\CMakeTmp\Debug\cmTC_0accc.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_0accc.dir\Debug\cmTC_0accc.tlog\unsuccessfulbuild”。
+  正在对“cmTC_0accc.dir\Debug\cmTC_0accc.tlog\cmTC_0accc.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\CMakeTmp\cmTC_0accc.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:00.56
+
+
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:0cxx_alignas
+    Feature record: CXX_FEATURE:0cxx_alignof
+    Feature record: CXX_FEATURE:0cxx_attributes
+    Feature record: CXX_FEATURE:0cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:0cxx_binary_literals
+    Feature record: CXX_FEATURE:0cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:0cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:0cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:0cxx_deleted_functions
+    Feature record: CXX_FEATURE:0cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:0cxx_func_identifier
+    Feature record: CXX_FEATURE:0cxx_generalized_initializers
+    Feature record: CXX_FEATURE:0cxx_generic_lambdas
+    Feature record: CXX_FEATURE:0cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:0cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:0cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:0cxx_noexcept
+    Feature record: CXX_FEATURE:0cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:0cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:0cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:0cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:0cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:0cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:0cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:0cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates

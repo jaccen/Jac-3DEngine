@@ -1,0 +1,25 @@
+# CMake generation dependency list for this directory.
+E:/Jac-3DEngine.git/trunk/CMakeLists.txt
+E:/Jac-3DEngine.git/trunk/Build/Windows/x86_32/CMakeFiles/3.4.0-rc3/CMakeSystem.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CMakeSystemSpecificInitialize.cmake
+E:/Jac-3DEngine.git/trunk/Build/Windows/x86_32/CMakeFiles/3.4.0-rc3/CMakeCCompiler.cmake
+E:/Jac-3DEngine.git/trunk/Build/Windows/x86_32/CMakeFiles/3.4.0-rc3/CMakeCXXCompiler.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CMakeGenericSystem.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/Platform/Windows.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/Platform/WindowsPaths.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CMakeCInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/Platform/Windows-MSVC.cmake
+E:/Jac-3DEngine.git/trunk/Build/Windows/x86_32/CMakeFiles/3.4.0-rc3/CMakeRCCompiler.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CMakeRCInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CMakeCXXInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/FindOpenGL.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CMakeParseArguments.cmake

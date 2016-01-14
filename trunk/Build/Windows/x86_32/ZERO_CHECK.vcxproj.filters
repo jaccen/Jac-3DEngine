@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\Jac-3DEngine.git\trunk\Build\Windows\x86_32\CMakeFiles\f3107b59710aa346c12115db7a9c759d\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2FC3A6D0-2330-3E64-BB18-4B1D8B5BBCE8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
