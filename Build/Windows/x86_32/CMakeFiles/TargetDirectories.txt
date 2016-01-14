@@ -1,4 +1,0 @@
-H:/3Dengine/Jac-3DEngine/Build/Windows/x86_32/Test/CMakeFiles/Test.dir
-H:/3Dengine/Jac-3DEngine/Build/Windows/x86_32/Engine/CMakeFiles/Engine.dir
-H:/3Dengine/Jac-3DEngine/Build/Windows/x86_32/CMakeFiles/ALL_BUILD.dir
-H:/3Dengine/Jac-3DEngine/Build/Windows/x86_32/CMakeFiles/ZERO_CHECK.dir

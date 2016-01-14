@@ -1,4 +1,0 @@
-D:/Opengl/branches/2.1_branch/external/glfw-3.1.2/Build/CMakeFiles/uninstall.dir
-D:/Opengl/branches/2.1_branch/external/glfw-3.1.2/Build/CMakeFiles/ALL_BUILD.dir
-D:/Opengl/branches/2.1_branch/external/glfw-3.1.2/Build/CMakeFiles/ZERO_CHECK.dir
-D:/Opengl/branches/2.1_branch/external/glfw-3.1.2/Build/src/CMakeFiles/glfw.dir
